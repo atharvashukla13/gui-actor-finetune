@@ -1,0 +1,35 @@
+[
+  {
+    "instruction": "Click the OK button",
+    "words": ["Click", "the", "OK", "button"],
+    "bboxes": [
+      [0, 0, 40, 20],
+      [45, 0, 70, 20],
+      [75, 0, 100, 20],
+      [105, 0, 140, 20]
+    ],
+    "patch_labels": [0, 0, 1, 0]
+  },
+  {
+    "instruction": "Open the file menu",
+    "words": ["Open", "the", "file", "menu"],
+    "bboxes": [
+      [10, 10, 50, 30],
+      [55, 10, 80, 30],
+      [85, 10, 120, 30],
+      [125, 10, 160, 30]
+    ],
+    "patch_labels": [1, 0, 0, 0]
+  },
+  {
+    "instruction": "Select the checkbox below",
+    "words": ["Select", "the", "checkbox", "below"],
+    "bboxes": [
+      [0, 50, 40, 70],
+      [45, 50, 70, 70],
+      [75, 50, 110, 70],
+      [115, 50, 150, 70]
+    ],
+    "patch_labels": [0, 0, 1, 0]
+  }
+]

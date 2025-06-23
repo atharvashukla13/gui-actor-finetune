@@ -1,0 +1,24 @@
+[
+  {
+    "instruction": "Click the submit button",
+    "words": ["Click", "the", "submit", "button"],
+    "bboxes": [
+      [10, 100, 50, 120],
+      [55, 100, 80, 120],
+      [85, 100, 120, 120],
+      [125, 100, 160, 120]
+    ],
+    "patch_labels": [0, 0, 1, 0]
+  },
+  {
+    "instruction": "Press the cancel icon",
+    "words": ["Press", "the", "cancel", "icon"],
+    "bboxes": [
+      [20, 200, 60, 220],
+      [65, 200, 90, 220],
+      [95, 200, 130, 220],
+      [135, 200, 170, 220]
+    ],
+    "patch_labels": [0, 0, 1, 0]
+  }
+]
