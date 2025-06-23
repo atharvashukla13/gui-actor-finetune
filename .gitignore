@@ -1,0 +1,8 @@
+checkpoints/
+*.safetensors
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.env
+*.log
